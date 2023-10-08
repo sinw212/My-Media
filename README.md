@@ -32,10 +32,46 @@ https://www.notion.so/12-S-A-f79dc026055d4ec98d97ff1e3bffe057
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://github.com/boradorying.png" width="100px;" alt=""/><br /><sub><b>팀장 : 박세준</b></sub><br /></td>
-      <td align="center"><img src="https://github.com/sinw212.png" width="100px;" alt=""/><br /><sub><b>팀원 : 김소현 </b></sub></a><br /></td>
-      <td align="center"><img src="https://github.com/Odin5din.png" width="100px;" alt=""/><br /><sub><b>팀원 : 김지견</b></sub></a><br /></td>
-      <td align="center"><img src="https://github.com/sooj36.png" width="100px;" alt=""/><br /><sub><b>팀원 : 이수진</b></sub></a><br /></td>
+      <td align="center">
+        <a href="https://github.com/boradorying">
+          <img src="https://github.com/boradorying.png" width="100px;" alt=""/>
+          <br />
+          <sub>
+            <b>팀장 : 박세준</b>
+          </sub>
+        </a>
+        <br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/sinw212">
+          <img src="https://github.com/sinw212.png" width="100px;" alt=""/>
+          <br />
+          <sub>
+            <b>팀원 : 김소현 </b>
+          </sub
+        </a>
+        <br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/Odin5din">
+          <img src="https://github.com/Odin5din.png" width="100px;" alt=""/>
+          <br />
+          <sub>
+            <b>팀원 : 김지견</b>
+          </sub>
+        </a>
+        <br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/sooj36">
+          <img src="https://github.com/sooj36.png" width="100px;" alt=""/>
+          <br />
+          <sub>
+            <b>팀원 : 이수진</b>
+          </sub>
+        </a>
+        <br />
+      </td>
     </tr>
   </tbody>
 </table>
